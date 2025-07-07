@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VivekSeemalamudi/static/css/main.178f52a4.css",
+    "main.js": "/VivekSeemalamudi/static/js/main.b915ff36.js",
+    "static/js/535.67f83141.chunk.js": "/VivekSeemalamudi/static/js/535.67f83141.chunk.js",
+    "index.html": "/VivekSeemalamudi/index.html",
+    "main.178f52a4.css.map": "/VivekSeemalamudi/static/css/main.178f52a4.css.map",
+    "main.b915ff36.js.map": "/VivekSeemalamudi/static/js/main.b915ff36.js.map",
+    "535.67f83141.chunk.js.map": "/VivekSeemalamudi/static/js/535.67f83141.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.178f52a4.css",
+    "static/js/main.b915ff36.js"
+  ]
+}
